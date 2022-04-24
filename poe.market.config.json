@@ -1,0 +1,31 @@
+{
+  "items": [
+    "Mageblood",
+    "Headhunter",
+    "Astramentis",
+    "Goldrim",
+    "Tabula Rasa",
+    "Uul-Netol's Vow",
+    "Stranglegasp",
+    "The Torrent's Reclamation",
+    "Ashes of the Stars",
+    "Crystallised Omniscience",
+    "Polaric Devastation",
+    "Unnatural Instinct",
+    "The Interrogation",
+    "Bottled Faith",
+    "Starlight Chalice",
+    "Soul Ripper",
+    "Olroth's Resolve",
+    "Replica Dreamfeather",
+    "Watcher's Eye"
+  ],
+  "postgres": {
+    "dbname": "postgres",
+    "user": "postgres",
+    "password": "secret",
+    "host": "localhost",
+    "port": "5432",
+    "sslmode": "disable"
+  }
+}
